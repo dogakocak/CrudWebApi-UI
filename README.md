@@ -1,7 +1,9 @@
 # CrudWebApi-UI
 
-![image](https://github.com/dogakocak/CrudWebApi-UI/assets/94220642/7637d444-e36c-46bf-ab2a-d0c2b1283c53)
+![image](https://github.com/dogakocak/CrudWebApi-UI/assets/94220642/179f9267-f9d6-4f26-8126-41b8018adab2)
+
  <br>
  
-![image](https://github.com/dogakocak/CrudWebApi-UI/assets/94220642/5c415569-700d-4ee9-829b-9b58f08f2a7d)
+![image](https://github.com/dogakocak/CrudWebApi-UI/assets/94220642/50defad2-bedc-461d-9ff1-160f2c48dc37)
+
 
